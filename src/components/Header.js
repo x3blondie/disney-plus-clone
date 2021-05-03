@@ -93,7 +93,8 @@ function Header() {
 
                 <UserImg 
                 onClick={signOut}
-                src="https://scontent-ort2-1.cdninstagram.com/v/t51.2885-19/s150x150/12783401_975610719172970_1049651767_a.jpg?tp=1&_nc_ht=scontent-ort2-1.cdninstagram.com&_nc_ohc=Nj5mvg1q8SkAX_8lOOz&edm=ABfd0MgBAAAA&ccb=7-4&oh=e136f0453e9ef179f2d86ba4c98f25ff&oe=60B4A6F7&_nc_sid=7bff83" />
+                // added User photo
+                src= {userPhoto} />
                 </>
             }
             
