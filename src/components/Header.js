@@ -94,6 +94,7 @@ function Header() {
                 <UserImg 
                 onClick={signOut}
                 // added User photo
+                
                 src= {userPhoto} />
                 </>
             }
