@@ -93,7 +93,6 @@ const PlayButton = styled.button`
     &:hover {
         background: rgb(198, 198, 198);
     }
-
 `
 
 const TrailerButton = styled(PlayButton)`
@@ -101,7 +100,6 @@ const TrailerButton = styled(PlayButton)`
     border:1px solid rgb(249, 249, 249);
     color: rgb(249, 249, 249);
     text-transform: uppercase;
-
 `
 
 const AddButton = styled.button`
@@ -131,7 +129,6 @@ const SubTitle = styled.div`
     font-size: 15px;
     min-height: 20px;
     margin-top:26px;
-
 `
 
 const Description = styled.div`
@@ -139,5 +136,4 @@ const Description = styled.div`
     font-size:20px;
     margin-top: 16px;
     color: rgb(249, 249, 249);
-
 `
